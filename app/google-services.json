@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "142780750781",
+    "firebase_url": "https://smart-journal-78a48.firebaseio.com",
+    "project_id": "smart-journal-78a48",
+    "storage_bucket": "smart-journal-78a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142780750781:android:c5be7508f7a20536",
+        "android_client_info": {
+          "package_name": "com.example.rennymark.smartjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142780750781-3a68jqk4538r823ahf3j10r12a8p8oqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rennymark.smartjournal",
+            "certificate_hash": "56c072f636a36caa6e4f3dbc7097e71b2a3e1d6c"
+          }
+        },
+        {
+          "client_id": "142780750781-ci7bko4ha619k6dl804jhej432607n9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA742QFNcJHZR8kUNAxyOtWrunONN9A8xs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142780750781-ci7bko4ha619k6dl804jhej432607n9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
